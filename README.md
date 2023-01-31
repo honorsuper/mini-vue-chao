@@ -13,5 +13,5 @@ npx tsc --init
 ```
 yarn add jest --dev
 yarn add jest @types/jest --dev
+yarn add --dev babel-jest @babel/core @babel/preset-env
 ```
-
